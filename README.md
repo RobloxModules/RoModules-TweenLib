@@ -1,2 +1,7 @@
-# RoModules---TweenLib
-A Roblox Module that provides advanced controls to Tween GUI and other elements.
+<p align="center">
+  <h1 align="center"><big>TweenLib</big></h1>
+</p>
+
+**TweenLib** is a Roblox module that provides advanced controls to tween GUI and other elements
+
+Created by [ForbiddenJ](https://www.roblox.com/users/59846333/profile)
